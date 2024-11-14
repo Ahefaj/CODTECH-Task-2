@@ -1,3 +1,10 @@
+Name :- Sheikh Ahefaj Sheikh Salim
+Company :- CODTECH IT SOLUTIONS
+ID :- CT08DS9227
+Domain :- FUll STACK WEB DEVELOPMENT
+Duration :- October to November 2024
+Mentor :- Muzammil Ahmed 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
